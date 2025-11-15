@@ -1,0 +1,23 @@
+{
+  "logo": {
+    "type": "file",
+    "source": "/home/nelson/Pictures/Wallpapers/nerv_ascii.txt",
+    "color": {
+      "1": "#FF5555"
+    }
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk"
+  ]
+}

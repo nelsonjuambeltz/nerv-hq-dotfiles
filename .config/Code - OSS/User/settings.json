@@ -1,0 +1,267 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.background": "#1a1a1a",
+    "editor.foreground": "#f8f8f2",
+    "editorCursor.foreground": "#ff5555",
+    "editor.selectionBackground": "#50fa7b55",
+    "editorLineNumber.foreground": "#6272a4",
+    "editorLineNumber.activeForeground": "#ff5555",
+
+    "statusBar.background": "#1a1a1a",
+    "statusBar.foreground": "#ff5555",
+    "statusBar.debuggingBackground": "#ff5555",
+    "statusBar.debuggingForeground": "#000000",
+
+    "activityBar.background": "#1a1a1a",
+    "activityBar.foreground": "#ff5555",
+    "activityBarBadge.background": "#50fa7b",
+    "activityBarBadge.foreground": "#000000",
+
+    /* --- Side Bar (Explorer, Search, etc.) --- */
+    "sideBar.background": "#1a1a1a",
+    "sideBar.foreground": "#50fa7b",
+    "sideBar.border": "#2a2a2a",
+    "sideBar.dropBackground": "#50fa7b22",
+    "sideBarTitle.foreground": "#ff5555",
+    "sideBarTitle.background": "#1a1a1a",
+    "sideBarTitle.border": "#2a2a2a",
+    "sideBarSectionHeader.background": "#1a1a1a",
+    "sideBarSectionHeader.foreground": "#50fa7b",
+    "sideBarSectionHeader.border": "#2a2a2a",
+    "sideBarActivityBarTop.border": "#2a2a2a",
+    "sideBarStickyScroll.background": "#1a1a1a",
+    "sideBarStickyScroll.border": "#2a2a2a",
+    "sideBarStickyScroll.shadow": "#00000080",
+
+    /* --- Lists & Trees --- */
+    "list.activeSelectionBackground": "#50fa7b33",
+    "list.activeSelectionForeground": "#50fa7b",
+    "list.activeSelectionIconForeground": "#50fa7b",
+    "list.dropBackground": "#50fa7b22",
+    "list.dropBetweenBackground": "#50fa7b55",
+    "list.focusBackground": "#2a2a2a",
+    "list.focusForeground": "#50fa7b",
+    "list.focusHighlightForeground": "#ff5555",
+    "list.focusOutline": "#50fa7b55",
+    "list.focusAndSelectionOutline": "#50fa7b77",
+    "list.highlightForeground": "#ff5555",
+    "list.hoverBackground": "#2a2a2a",
+    "list.hoverForeground": "#50fa7b",
+    "list.inactiveSelectionBackground": "#2a2a2a",
+    "list.inactiveSelectionForeground": "#50fa7b",
+    "list.inactiveSelectionIconForeground": "#ff5555",
+    "list.inactiveFocusBackground": "#202020",
+    "list.inactiveFocusOutline": "#ff555555",
+    "list.invalidItemForeground": "#ff79c6",
+    "list.errorForeground": "#ff5555",
+    "list.warningForeground": "#f1fa8c",
+    "listFilterWidget.background": "#2a2a2a",
+    "listFilterWidget.outline": "#ff5555",
+    "listFilterWidget.noMatchesOutline": "#ff5555",
+    "listFilterWidget.shadow": "#00000080",
+    "list.filterMatchBackground": "#50fa7b33",
+    "list.filterMatchBorder": "#50fa7b55",
+    "list.deemphasizedForeground": "#6272a4",
+    "list.foreground": "#f8f8f2",
+    "list.inactiveForeground": "#808080",
+
+    /* --- Tree --- */
+    "tree.indentGuidesStroke": "#333333",
+    "tree.inactiveIndentGuidesStroke": "#2a2a2a",
+    "tree.tableColumnsBorder": "#2a2a2a",
+    "tree.tableOddRowsBackground": "#1e1e1e",
+
+    /* --- Explorer Decorations --- */
+    "explorer.decorations.colors": true,
+    "explorer.decorations.badgeForeground": "#000000",
+    "explorer.decorations.badgeBackground": "#50fa7b",
+    "explorer.decorations.deletedResourceForeground": "#ff5555",
+    "explorer.decorations.addedResourceForeground": "#50fa7b",
+    "explorer.decorations.modifiedResourceForeground": "#f1fa8c",
+    "explorer.decorations.ignoredResourceForeground": "#44475a",
+    "explorer.decorations.conflictingResourceForeground": "#ff79c6",
+    "explorer.decorations.submoduleResourceForeground": "#8be9fd",
+    "explorer.decorations.renamedResourceForeground": "#bd93f9",
+
+    "titleBar.activeBackground": "#1a1a1a",
+    "titleBar.activeForeground": "#ff5555",
+    "titleBar.inactiveBackground": "#1a1a1a",
+    "titleBar.inactiveForeground": "#6272a4",
+
+    "button.background": "#50fa7b",
+    "button.foreground": "#000000",
+    "button.hoverBackground": "#69ff94",
+
+    "textLink.foreground": "#ff5555",
+    "textLink.activeForeground": "#ff6e6e",
+
+    "terminal.foreground": "#f8f8f2",
+    "terminal.background": "#1a1a1a",
+    "terminalCursor.foreground": "#ff5555",
+
+    "terminal.ansiBlack": "#1a1a1a",
+    "terminal.ansiRed": "#ff5555",
+    "terminal.ansiGreen": "#50fa7b",
+    "terminal.ansiYellow": "#f1fa8c",
+    "terminal.ansiBlue": "#bd93f9",
+    "terminal.ansiMagenta": "#ff79c6",
+    "terminal.ansiCyan": "#8be9fd",
+    "terminal.ansiWhite": "#f8f8f2",
+
+    "terminal.ansiBrightBlack": "#6272a4",
+    "terminal.ansiBrightRed": "#ff6e6e",
+    "terminal.ansiBrightGreen": "#69ff94",
+    "terminal.ansiBrightYellow": "#ffffa5",
+    "terminal.ansiBrightBlue": "#d6acff",
+    "terminal.ansiBrightMagenta": "#ff92df",
+    "terminal.ansiBrightCyan": "#a4ffff",
+    "terminal.ansiBrightWhite": "#ffffff"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#6272a4",
+    "strings": "#50fa7b",
+    "numbers": "#f1fa8c",
+    "keywords": "#bd93f9",
+    "functions": "#8be9fd",
+    "variables": "#ff5555"
+  },
+  "qt-core.additionalQtPaths": [
+    {
+      "name": "Qt-5.15.17-linux-g++_from_PATH",
+      "path": "/usr/bin/qmake"
+    }
+  ]
+}{
+  "workbench.colorCustomizations": {
+    "editor.background": "#1a1a1a",
+    "editor.foreground": "#f8f8f2",
+    "editorCursor.foreground": "#ff5555",
+    "editor.selectionBackground": "#50fa7b55",
+    "editorLineNumber.foreground": "#6272a4",
+    "editorLineNumber.activeForeground": "#ff5555",
+
+    "statusBar.background": "#1a1a1a",
+    "statusBar.foreground": "#ff5555",
+    "statusBar.debuggingBackground": "#ff5555",
+    "statusBar.debuggingForeground": "#000000",
+
+    "activityBar.background": "#1a1a1a",
+    "activityBar.foreground": "#ff5555",
+    "activityBarBadge.background": "#50fa7b",
+    "activityBarBadge.foreground": "#000000",
+
+    /* --- Side Bar (Explorer, Search, etc.) --- */
+    "sideBar.background": "#1a1a1a",
+    "sideBar.foreground": "#50fa7b",
+    "sideBar.border": "#2a2a2a",
+    "sideBar.dropBackground": "#50fa7b22",
+    "sideBarTitle.foreground": "#ff5555",
+    "sideBarTitle.background": "#1a1a1a",
+    "sideBarTitle.border": "#2a2a2a",
+    "sideBarSectionHeader.background": "#1a1a1a",
+    "sideBarSectionHeader.foreground": "#50fa7b",
+    "sideBarSectionHeader.border": "#2a2a2a",
+    "sideBarActivityBarTop.border": "#2a2a2a",
+    "sideBarStickyScroll.background": "#1a1a1a",
+    "sideBarStickyScroll.border": "#2a2a2a",
+    "sideBarStickyScroll.shadow": "#00000080",
+
+    /* --- Lists & Trees --- */
+    "list.activeSelectionBackground": "#50fa7b33",
+    "list.activeSelectionForeground": "#50fa7b",
+    "list.activeSelectionIconForeground": "#50fa7b",
+    "list.dropBackground": "#50fa7b22",
+    "list.dropBetweenBackground": "#50fa7b55",
+    "list.focusBackground": "#2a2a2a",
+    "list.focusForeground": "#50fa7b",
+    "list.focusHighlightForeground": "#ff5555",
+    "list.focusOutline": "#50fa7b55",
+    "list.focusAndSelectionOutline": "#50fa7b77",
+    "list.highlightForeground": "#ff5555",
+    "list.hoverBackground": "#2a2a2a",
+    "list.hoverForeground": "#50fa7b",
+    "list.inactiveSelectionBackground": "#2a2a2a",
+    "list.inactiveSelectionForeground": "#50fa7b",
+    "list.inactiveSelectionIconForeground": "#ff5555",
+    "list.inactiveFocusBackground": "#202020",
+    "list.inactiveFocusOutline": "#ff555555",
+    "list.invalidItemForeground": "#ff79c6",
+    "list.errorForeground": "#ff5555",
+    "list.warningForeground": "#f1fa8c",
+    "listFilterWidget.background": "#2a2a2a",
+    "listFilterWidget.outline": "#ff5555",
+    "listFilterWidget.noMatchesOutline": "#ff5555",
+    "listFilterWidget.shadow": "#00000080",
+    "list.filterMatchBackground": "#50fa7b33",
+    "list.filterMatchBorder": "#50fa7b55",
+    "list.deemphasizedForeground": "#6272a4",
+    "list.foreground": "#f8f8f2",
+    "list.inactiveForeground": "#808080",
+
+    /* --- Tree --- */
+    "tree.indentGuidesStroke": "#333333",
+    "tree.inactiveIndentGuidesStroke": "#2a2a2a",
+    "tree.tableColumnsBorder": "#2a2a2a",
+    "tree.tableOddRowsBackground": "#1e1e1e",
+
+    /* --- Explorer Decorations --- */
+    "explorer.decorations.colors": true,
+    "explorer.decorations.badgeForeground": "#000000",
+    "explorer.decorations.badgeBackground": "#50fa7b",
+    "explorer.decorations.deletedResourceForeground": "#ff5555",
+    "explorer.decorations.addedResourceForeground": "#50fa7b",
+    "explorer.decorations.modifiedResourceForeground": "#f1fa8c",
+    "explorer.decorations.ignoredResourceForeground": "#44475a",
+    "explorer.decorations.conflictingResourceForeground": "#ff79c6",
+    "explorer.decorations.submoduleResourceForeground": "#8be9fd",
+    "explorer.decorations.renamedResourceForeground": "#bd93f9",
+
+    "titleBar.activeBackground": "#1a1a1a",
+    "titleBar.activeForeground": "#ff5555",
+    "titleBar.inactiveBackground": "#1a1a1a",
+    "titleBar.inactiveForeground": "#6272a4",
+
+    "button.background": "#50fa7b",
+    "button.foreground": "#000000",
+    "button.hoverBackground": "#69ff94",
+
+    "textLink.foreground": "#ff5555",
+    "textLink.activeForeground": "#ff6e6e",
+
+    "terminal.foreground": "#f8f8f2",
+    "terminal.background": "#1a1a1a",
+    "terminalCursor.foreground": "#ff5555",
+
+    "terminal.ansiBlack": "#1a1a1a",
+    "terminal.ansiRed": "#ff5555",
+    "terminal.ansiGreen": "#50fa7b",
+    "terminal.ansiYellow": "#f1fa8c",
+    "terminal.ansiBlue": "#bd93f9",
+    "terminal.ansiMagenta": "#ff79c6",
+    "terminal.ansiCyan": "#8be9fd",
+    "terminal.ansiWhite": "#f8f8f2",
+
+    "terminal.ansiBrightBlack": "#6272a4",
+    "terminal.ansiBrightRed": "#ff6e6e",
+    "terminal.ansiBrightGreen": "#69ff94",
+    "terminal.ansiBrightYellow": "#ffffa5",
+    "terminal.ansiBrightBlue": "#d6acff",
+    "terminal.ansiBrightMagenta": "#ff92df",
+    "terminal.ansiBrightCyan": "#a4ffff",
+    "terminal.ansiBrightWhite": "#ffffff"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#6272a4",
+    "strings": "#50fa7b",
+    "numbers": "#f1fa8c",
+    "keywords": "#bd93f9",
+    "functions": "#8be9fd",
+    "variables": "#ff5555"
+  },
+  "qt-core.additionalQtPaths": [
+    {
+      "name": "Qt-5.15.17-linux-g++_from_PATH",
+      "path": "/usr/bin/qmake"
+    }
+  ]
+}
